@@ -1,0 +1,26 @@
+{
+  "name": "bitget-group-trade-pendax",
+  "version": "1.0.0",
+  "description": "JS program built on PENDAX library that takes in a unified set of trade params and executes on multiple bitget accounts in an account size adjusted manner.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traderjoe155/bitget-group-trade-PENDAX.git"
+  },
+  "keywords": [
+    "pendax"
+  ],
+  "author": "traderjoe155",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traderjoe155/bitget-group-trade-PENDAX/issues"
+  },
+  "homepage": "https://github.com/traderjoe155/bitget-group-trade-PENDAX#readme",
+  "dependencies": {
+    "@compendiumfi/pendax": "^1.1.8"
+  }
+}
